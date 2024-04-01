@@ -1,0 +1,3 @@
+(library
+ (name input)
+ (public_name ft_turing.input))
