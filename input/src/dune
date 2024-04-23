@@ -1,3 +1,6 @@
 (library
  (name input)
+ (libraries core)
+ (preprocess
+  (pps ppx_jane))
  (public_name ft_turing.input))
